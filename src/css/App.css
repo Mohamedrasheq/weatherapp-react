@@ -1,0 +1,74 @@
+.img1
+{
+    width:50px;
+    margin-right:50px;
+    margin-top:5px;
+}
+.img2
+{
+    width:50px;
+}
+.img3
+{
+    width:25px;
+    margin-right:50px;
+    margin-top:5px;   
+}
+body
+{
+    background-color:cornsilk;
+
+}
+.card3
+{
+    text-align:center;
+    margin-right:50px;
+    margin-top:10px;
+}
+.card5
+{
+    text-align:center;
+    margin-left:50px;
+}
+.card4
+{
+    margin-right:10px;
+    margin-left:50px;
+}
+.container
+{
+    background-color: white;
+    padding:20px;
+    width:30%;
+    margin-top:30px;
+}
+.temp
+{
+    font-weight: bold;
+    font-size:30px;
+}
+.city
+{
+    color:orange;
+    font-size:40px;
+    margin-bottom: 10px;
+}
+.card2
+{
+    margin-left:20px;
+    margin-top:20px;
+    font-weight: bold;
+    text-align:center;
+}
+.country{
+    margin-bottom: 20px;
+}
+.card5
+{
+    margin-top:10px;
+    text-align:center;
+}
+.head1
+{
+    font-size:20px;
+}
