@@ -42,8 +42,8 @@ const Weatherdetails=({icon,temp,city,country,lat,lon,humidity,windspeed,humidit
                 <div>Wind Speed</div>
             </div>
         </div>
-        <div className="card5">
-        <h1 className="head1">Designed By Mohamed Rasheq A</h1>
+        <div className="col-12 card6">
+            <h1 className="head1">Designed By Mohamed Rasheq A</h1>
         </div>
     </>
   )
